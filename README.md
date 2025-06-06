@@ -1,6 +1,6 @@
 # ChatGPT 国内可用镜像网站合集（支持GPT-4，GPT-4o，GPT-o1,无需翻墙）【2025年最新更新】
 
-> **更新时间：2025/03/25**  
+> **更新时间：2025/06/07**  
 
 **轻松访问 ChatGPT 镜像网站，无需翻墙，支持 GPT-4 和多种功能应用！**  
 本指南汇总整理了多个国内 **ChatGPT镜像网站**，帮助用户在正常网络环境下稳定访问 **ChatGPT**，满足个人学习、办公及专业需求。
@@ -52,9 +52,9 @@
 
 | 镜像站名称       | 地址                                         | 支持版本         | 免费额度      | 稳定性 | 功能亮点                         |
 |------------------|----------------------------------------------|------------------|--------------|-------|----------------------------------|
-| **一下 AI**       | [yixiaai.com](https://chat.yixiaai.com/)       | GPT-4, GPT-4o, GPT-o | 有            | 高     | 支持 MJ 绘画, 浏览文件, AIPPT                    |
-| **lify ai**       | [chat.lify.vip](https://chat.lify.vip/)        | GPT-4, GPT-4o, GPT-o1 | 有            | 高     | 多模型支持，快速响应 ,浏览文件 , AIPPT                |
-| **lanjing AI**       | [chatgpt.lanjing.ai](https://chat.lanjing.ai/) | GPT-4, GPT-4o    | 有            | 高     | 专注中文优化，界面友好              |
+| **Xsimple**       | [xsimplechat.com](https://xsimplechat.com/)       | GPT-4, GPT-4o, GPT-o | 有            | 高     | 支持 MJ 绘画, 浏览文件, AIPPT                    |
+| **lify ai**       | [chat.lanjing.pro](https://chat.lanjing.pro/)        | GPT-4, GPT-4o, GPT-o1 | 有            | 高     | 多模型支持，快速响应 ,浏览文件 , AIPPT                |
+| **lanjing AI**       | [yixiaai.com](https://yixiaai.com/) | GPT-4, GPT-4o    | 有            | 高     | 专注中文优化，界面友好              |
 | **星河 GPT**     | [cgn.lify.vip](https://cgn.lify.vip)           | GPT-4, GPT-4o    | 有            | 高     | 支持 MJ 绘画、API 调用              |
 | **飞跃 GPT**     | [www.yixiaai.com](https://www.yixiaai.com/) | GPT-4            | 有            | 中     | 支持多平台访问，使用便捷                |
 | **莫妮卡 GPT**   | [monica.im](https://monica.im/)                | GPT-4            | 有            | 高     | 高级功能丰富，适合专业用户                |
