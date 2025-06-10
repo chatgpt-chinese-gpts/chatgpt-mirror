@@ -53,7 +53,7 @@
 | 镜像站名称       | 地址                                         | 支持版本         | 免费额度      | 稳定性 | 功能亮点                         |
 |------------------|----------------------------------------------|------------------|--------------|-------|----------------------------------|
 | **Xsimple**       | [xsimplechat.com](https://xsimplechat.com/)       | GPT-4, GPT-4o, GPT-o | 有            | 高     | 支持 MJ 绘画, 浏览文件, AIPPT                    |
-| **lify ai**       | [chat.lanjing.pro](https://chat.lanjing.pro/)        | GPT-4, GPT-4o, GPT-o1 | 有            | 高     | 多模型支持，快速响应 ,浏览文件 , AIPPT                |
+| **lify ai**       | [chat.lanjingai.org](https://chat.lanjingai.org/)        | GPT-4, GPT-4o, GPT-o1 | 有            | 高     | 多模型支持，快速响应 ,浏览文件 , AIPPT                |
 | **lanjing AI**       | [yixiaai.com](https://yixiaai.com/) | GPT-4, GPT-4o    | 有            | 高     | 专注中文优化，界面友好              |
 | **星河 GPT**     | [cgn.lify.vip](https://cgn.lify.vip)           | GPT-4, GPT-4o    | 有            | 高     | 支持 MJ 绘画、API 调用              |
 | **飞跃 GPT**     | [www.yixiaai.com](https://www.yixiaai.com/) | GPT-4            | 有            | 中     | 支持多平台访问，使用便捷                |
