@@ -1,6 +1,6 @@
 # 国内 ChatGPT-4中文版镜像网站整理（2025/09月 更新）【镜像网站合集】                     
 
-本站为了方便使用，我整理了一些国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjingai.org)，都有优劣之处，大家可自选使用~
+本站为了方便使用，我整理了一些国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjingai.org)，都有优劣之处，大家可自选使用~   
 
 在国内**无需翻墙**，就能直接在线使用 [**ChatGPT镜像网站**](https://xsimplechat.com)~
 
